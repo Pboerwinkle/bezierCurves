@@ -1,0 +1,3 @@
+- Left click to create new point
+  - after three points a curve will be created
+- Right click & drag to edit point
