@@ -1,3 +1,6 @@
-- Left click to create new point
-  - after three points a curve will be created
-- Right click & drag to edit point
+- run with `python3 bezierCurves.py`
+  - you will need python 3 and pygame (2.5.2? IDK it is what I have)
+- controls:
+  - left click to create new point
+    - after three points a curve will be created
+  - right click & drag to edit point
